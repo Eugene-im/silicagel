@@ -418,7 +418,8 @@ nav ul li a:hover {
   background-size: contain;
   background-position: calc(100% - (50% - 485px));
   margin-top: 2em;
-  min-height: 700px;
+  min-height: calc(100vh - 100px );
+  /* min-height: 700px; */
 }
 
 .left_circle_wripper {

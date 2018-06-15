@@ -264,7 +264,7 @@
         margin-left: 30%;
         }*/
     .girl_area_header {
-        min-height: 627px;
+        /* min-height: 627px; */
     }
 
     #bg_magnoliya {
@@ -363,7 +363,7 @@
     }
 
     .girl_area_header {
-        min-height: 598px;
+        /* min-height: 598px; */
     }
 
 }
@@ -382,7 +382,7 @@
     }
 
     .girl_area_header {
-        min-height: 593px;
+        /* min-height: 593px; */
     }
 
     #bg_magnoliya {
@@ -419,7 +419,7 @@
 
 @media only screen and (max-width: 848px) {
     .girl_area_header {
-        min-height: 521px;
+        /* min-height: 521px; */
         background-position: calc(100% + 27px);
     }
 
@@ -531,7 +531,7 @@
     .girl_area_header {
         background-position: calc(100% + 3px) bottom;
         /* background-size: 275px; */
-        min-height: 479px;
+        /* min-height: 479px; */
     }
 
     #bg_magnoliya {
@@ -897,7 +897,7 @@
     .girl_area_header {
         background-position: calc(100% + 3px) bottom;
         /* background-size: 257px; */
-        min-height: 479px;
+        /* min-height: 479px; */
     }
 
     #bg_magnoliya {
@@ -910,7 +910,7 @@
 @media only screen and (max-width: 587px) {
     .girl_area_header {
         /* background-size: 224px; */
-        min-height: 454px;
+        /* min-height: 454px; */
     }
 
     h1 {
@@ -996,7 +996,7 @@
 
 @media only screen and (max-width: 555px) {
     .girl_area_header {
-        min-height: 476px;
+        /* min-height: 476px; */
     }
 }
 
@@ -1044,7 +1044,7 @@
     }
 
     .girl_area_header {
-        min-height: 467px;
+        /* min-height: 467px; */
         /* background-size: 200px; */
     }
 
@@ -1072,7 +1072,7 @@
 
 @media only screen and (max-width: 475px) {
     .girl_area_header {
-        min-height: 461px;
+        /* min-height: 461px; */
     }
 
 }
@@ -1130,7 +1130,7 @@
     }
 
     .girl_area_header {
-        min-height: 443px;
+        /* min-height: 443px; */
         /* background-size: 195px; */
         margin-top: 0;
     }
@@ -1167,7 +1167,7 @@
 
 @media only screen and (max-width: 443px) {
     .girl_area_header {
-        min-height: 484px;
+        /* min-height: 484px; */
     }
 
     #bg_magnoliya {
@@ -1203,7 +1203,7 @@
 @media only screen and (max-width: 400px) {
     .girl_area_header {
         /* background-size: 177px; */
-        min-height: 455px;
+        /* min-height: 455px; */
     }
 
     #bg_magnoliya {
@@ -1245,7 +1245,7 @@
 @media only screen and (max-width: 373px) {
     .girl_area_header {
         /* background-size: 154px; */
-        min-height: 458px;
+        /* min-height: 458px; */
     }
 
     #bg_magnoliya {
@@ -1319,7 +1319,7 @@
 @media only screen and (max-width: 358px) {
     .girl_area_header {
         /* background-size: 144px; */
-        min-height: 449px;
+        /* min-height: 449px; */
     }
 
     #bg_magnoliya {
@@ -1360,7 +1360,7 @@
 @media only screen and (max-width: 335px) {
     .girl_area_header {
         /* background-size: 144px; */
-        min-height: 477px;
+        /* min-height: 477px; */
     }
 }
 
@@ -1372,6 +1372,6 @@
 
 @media only screen and (max-width: 318px) {
     .girl_area_header {
-        min-height: 407px;
+        /* min-height: 407px; */
     }
 }
